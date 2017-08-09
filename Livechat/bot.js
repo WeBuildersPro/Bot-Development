@@ -2,7 +2,7 @@ const slackBot = require("slackbots");
 
 // Create the bot
 var bot = new slackBot({
-    token: 'xoxb-223984827124-Mm5cgXC10SKfLukpvagfJ4Bq', 
+    token: 'xoxb-223984827124-797e8BTrqQmVpIQLbbW1I9Rs', 
     name: "Livechat Bot"
 });
 
